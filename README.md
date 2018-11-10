@@ -19,7 +19,7 @@
   </div>
   <div class="row">
     <div class="col-sm-4">
-      <h3>Me encantan las innovaciones </h3>
+      <p> <h3>Me encantan las innovaciones </h3> </p>
       <p>También en mi ratos libres suelo investigar sobre innovaciones es cualquier ámbito y contexto. Sobretodo me encanta ver videos que explican sobre ello. Aquí les comparto algunos canales que comparten historias y hechos innovadores.</p>
       <p><style>
 table, th, td {
@@ -89,7 +89,7 @@ th, td {
       
     </div>
     <div class="col-sm-4">
-      <h3>Música</h3>        
+      <p<<h3>Música</h3>   </p>     
       <p>Al igual que los libros soy muy abierta en cuanto gustos musicales.Pero en este caso resaltare la música clásica.</p>
       <p>
       <style>
@@ -103,8 +103,8 @@ th, td {
 </style>
 
 <body>
-
-<h2>Lista de música clásica</h2>
+<p<
+<h2>Lista de música clásica</h2> </p>
 <p>Espero que les guste tanto como a mi.</p>
 
 <table style="width:100%">
@@ -130,9 +130,9 @@ th, td {
   </tr>
 </table>
     
-  </div>
+
 </div>
 
 </body>
 
-</html>
+
