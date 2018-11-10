@@ -9,9 +9,9 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
-
 <div class="container">
   <div class="jumbotron">
+
     <h1>Daphne Adriana Huapaya Montes</h1>
     <p>Tengo 18 años , soy estudiante de ingeniería civil de la Universidad de Ingeniería y Tecnología. Mis pasatiempos son leer , dibujar y pintar, pero suelo hacer estos al aire libre porque es mucho mas relajante y me puedo concentrar con mayor facilidad.Mi animal preferido es el gato, porque son atractivos físicamente además presentar un carácter libre y despreocupado.</p> 
     <img src="https://i.pinimg.com/originals/19/2a/6d/192a6d3ca3f0271a3504fb7e2bbd207d.jpg" style="width:900px;height:500px;">
@@ -96,7 +96,7 @@ th, td {
     padding: 15px;
 }
 </style>
-</head>
+
 <body>
 
 <h2>Lista de música clásica</h2>
@@ -124,10 +124,6 @@ th, td {
     <td><a href="https://www.youtube.com/watch?v=COGcCBJAC6I&t=385s" target="_blank">Aqui esta el link.</a></td>
   </tr>
 </table>
-    
-  </div>
-</div>
-
-</body>
 
 </html>
+
